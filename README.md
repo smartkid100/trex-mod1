@@ -1,2 +1,1 @@
-# trex-mod1
-trex
+# T-Rex-Runner-Color
